@@ -34,5 +34,5 @@ in red - composition relations / other
 1. Install Visual Studio (Any version from 2012 should work)  
 
 ## How to use?
-1. Clone this repo to your local machine using https://github.com/MaayanFarchi/Snake
+1. Clone this repo to your local machine using https://github.com/MaayanFarchi/GarageManager
 2. Open the .sln file and run the project. 
