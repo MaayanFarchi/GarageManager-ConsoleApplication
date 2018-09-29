@@ -1,5 +1,5 @@
 # GarageManager
-A computer software that manages a vehicle garage using OOP desing, incuding Factory Method desing pattern,
+A computer software (Console application) that manages a vehicle garage using OOP desing, incuding Factory Method desing pattern,
 The user interface and the logical layer wich manages the object model and the logical entities of the system are seprated. 
 
 The system supplies the user with the following functions:
@@ -25,9 +25,9 @@ garage, Tire specifications (manufacturer and air pressure), Fuel status + Fuel 
 Battery status, other relevant information based on vehicle type)
 
 ## Hierarchy
-in green - inheritance relations 
+In green - inheritance relations 
 
-in red - composition relations / other 
+In red - composition relations / other 
 ![alt text](https://github.com/MaayanFarchi/GarageManager/blob/master/HierarchyScreenShot.png)
 
 ## Installation
