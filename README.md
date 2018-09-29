@@ -26,6 +26,7 @@ Battery status, other relevant information based on vehicle type)
 
 ## Hierarchy
 in green - inheritance relations 
+
 in red - composition relations / other 
 ![alt text](https://github.com/MaayanFarchi/GarageManager/blob/master/HierarchyScreenShot.png)
 
