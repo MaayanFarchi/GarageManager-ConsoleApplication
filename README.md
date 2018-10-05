@@ -1,5 +1,5 @@
 # GarageManager
-A computer software (Console application) that manages a vehicle garage using OOP desing, incuding "Factory Method" desing pattern.
+A computer software (Console application) that manages a vehicle garage using OOP desing, including "Factory Method" desing pattern.
 
 The user interface and the logical layer wich manages the object model and the logical entities of the system are seprated. 
 
