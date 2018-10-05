@@ -1,11 +1,11 @@
 # GarageManager
-A computer software (Console application) that manages a vehicle garage using OOP desing, including "Factory Method" desing pattern.
+Computer program (Console application) that manages a vehicle garage using OOP design, including "Factory Method" design pattern.
 
-The user interface and the logical layer wich manages the object model and the logical entities of the system are seprated. 
+The user interface and the logical layer which manages the object model and the logical entities of the system are separated. 
 
 The system supplies the user with the following functions:
 1. “Insert” a new vehicle into the garage. The user will be asked to select a
-vehicle type out of the supported vehicle types, and to input the license
+vehicle type out of the supported vehicle types and to input the license
 number of the vehicle. If the vehicle is already in the garage (based on
 license number) the system will display an appropriate message and will use
 the vehicle in the garage (and will change the vehicle status to “In Repair”), if
@@ -21,8 +21,7 @@ new desired status)
 and amount to fill)
 6. Charge an electric-based vehicle (Prompting the user for the license number
 and number of minutes to charge)
-7. Display vehicle information (License number, Model name, Owner name, Status in
-garage, Tire specifications (manufacturer and air pressure), Fuel status + Fuel type /
+7. Display vehicle information (License number, Model name, Owner name, Status in the garage, Tire specifications (manufacturer and air pressure), Fuel status + Fuel type /
 Battery status, other relevant information based on vehicle type)
 
 ## Hierarchy
