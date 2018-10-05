@@ -1,7 +1,7 @@
 # GarageManager
-Computer program (Console application) that manages a vehicle garage using OOP design, including "Factory Method" design pattern.
+* Computer program (Console application) that manages a vehicle garage using OOP design, including "Factory Method" design pattern.
 
-The user interface and the logical layer which manages the object model and the logical entities of the system are separated. 
+* The user interface and the logical layer which manages the object model and the logical entities of the system are separated. 
 
 The system supplies the user with the following functions:
 1. “Insert” a new vehicle into the garage. The user will be asked to select a
@@ -25,9 +25,9 @@ and number of minutes to charge)
 Battery status, other relevant information based on vehicle type)
 
 ## Hierarchy
-In green - inheritance relations 
+* In green - inheritance relations 
 
-In red - composition relations / other 
+* In red - composition relations / other 
 ![alt text](https://github.com/MaayanFarchi/GarageManager/blob/master/HierarchyScreenShot.png)
 
 ## Installation
